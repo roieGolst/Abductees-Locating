@@ -1,0 +1,10 @@
+{
+  "name": "telegram-crawler",
+  "version": "0.0.1",
+  "main": "telegramCrawler.js",
+  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "telegram": "^2.19.8"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "api": {
+        "id": 26360478,
+        "hash": "2631e8e2abd5fb192aff3f3267798b7a",
+        "stringSession": "1BAAOMTQ5LjE1NC4xNjcuOTEAUKBMr2GsWD56nctPj+leDQrGt3GEYz7ZdVs/98IgEZY0EZQTYTVciGoXd6hqrFbgJGVg4JzPd6VI2cpeQZ0NFpx7KH/1KM+vjJAoesnSwKWjRJLQHUSJZ7kRmSFiW10RlgbXBI8srLh2044yCiGE1R2y2gB5I8F/an/dwvJgXSKbrQuFsY1opz4twUY1sgLKiKTKUb8k0sZ1Tn+wlC4fWe7Iu3sWQod3bNmGbGBA76hE8VKatfBIEyCI2NGSU6nXTpqC6uQVYsXKfpwB7gtg4HAZtuaLXPSrsnq1H4v1KpeL3lDJvX9bqmhXgSn85HKV6v1FFFeBCY48W7b/sbaAZk0="
+    },
+    "crawlerConfigs": {
+        "channelName": "N12Updates",
+        "WAR_TIME": 1696626000,
+        "MEDIA_DIR": "media",
+        "OFFSET_LIMIT": 100
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "face_recognotion-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "rm -rf ./dist",
+    "build": "yarn run tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.19",
+    "@types/multer": "^1.4.8",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "sqlite3": "^5.1.6",
+    "typescript": "^5.2.2"
+  }
+}
